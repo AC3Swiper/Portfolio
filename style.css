@@ -1,9 +1,10 @@
-    body {color:blue;
+    body {color:cyan;
     }
 h1 {color:red;
 }
-h4 {color:cyan;
+h4 {color:white;
 }
 body {background-color:black;
 }
-div {background-color:yellow; }
+div {background-color:black;
+ }
